@@ -1,4 +1,5 @@
-# Overview of the analysis ##The purpose of the analysis for Pewlett Hackard was to determine how many employees were approaching retirement and if there were enough eligible employees to be groomed into filling those vacated roles.
+# Overview of the analysis 
+## The purpose of the analysis for Pewlett Hackard was to determine how many employees were approaching retirement and if there were enough eligible employees to be groomed into filling those vacated roles.
 
 # Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
