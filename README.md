@@ -9,7 +9,7 @@
 
 ## The retiring_titles query broke down the amount of employees in each role that were retiring. By far the senior positions were going to be the most heavily affected by the “silver tsunami”. Breaking down the mentorship eligibility data further would be helpful to determine what roles could potentially be fulfilled.
 
-[TitleContent](/TitleContent.png)
+![TitleContent](/TitleCount.png)
 
 ## The mentorship_eligibility determined what employees were eligible to be mentored by their birth date. This result only gave 1,549 eligible employees. This program will have to be looked at closer and possibly expand the eligibility guidelines in order to get a more accurate picture for hiring needs. You could also add different guidelines for each position. For instance, more experienced employees can be eligible for Senior Level positions but newer employees can be mentored for some of the lower level positions.
 
